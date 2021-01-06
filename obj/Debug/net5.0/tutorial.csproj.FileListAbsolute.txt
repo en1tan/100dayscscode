@@ -1,0 +1,16 @@
+/home/x1k/Code/nets/tutorial/bin/Debug/net5.0/tutorial
+/home/x1k/Code/nets/tutorial/bin/Debug/net5.0/tutorial.deps.json
+/home/x1k/Code/nets/tutorial/bin/Debug/net5.0/tutorial.runtimeconfig.json
+/home/x1k/Code/nets/tutorial/bin/Debug/net5.0/tutorial.runtimeconfig.dev.json
+/home/x1k/Code/nets/tutorial/bin/Debug/net5.0/tutorial.dll
+/home/x1k/Code/nets/tutorial/bin/Debug/net5.0/ref/tutorial.dll
+/home/x1k/Code/nets/tutorial/bin/Debug/net5.0/tutorial.pdb
+/home/x1k/Code/nets/tutorial/obj/Debug/net5.0/tutorial.csprojAssemblyReference.cache
+/home/x1k/Code/nets/tutorial/obj/Debug/net5.0/tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/home/x1k/Code/nets/tutorial/obj/Debug/net5.0/tutorial.AssemblyInfoInputs.cache
+/home/x1k/Code/nets/tutorial/obj/Debug/net5.0/tutorial.AssemblyInfo.cs
+/home/x1k/Code/nets/tutorial/obj/Debug/net5.0/tutorial.csproj.CoreCompileInputs.cache
+/home/x1k/Code/nets/tutorial/obj/Debug/net5.0/tutorial.dll
+/home/x1k/Code/nets/tutorial/obj/Debug/net5.0/ref/tutorial.dll
+/home/x1k/Code/nets/tutorial/obj/Debug/net5.0/tutorial.pdb
+/home/x1k/Code/nets/tutorial/obj/Debug/net5.0/tutorial.genruntimeconfig.cache
