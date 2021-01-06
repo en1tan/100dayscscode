@@ -4,10 +4,12 @@ namespace tutorial
 {
     class Program
     {
+
         static void Main(string[] args)
         {
-            string FirstName = "Michael";
-            string LastName = "Asaju";
+
+            string FirstName = "John";
+            string LastName = "Doe";
             DateTime dateTime = new DateTime();
 
             Console.WriteLine("Hello World!");
